@@ -1,14 +1,14 @@
-// Main color palette for Music4You app
+// Main color palette for Music4You app - Red Theme
 const AppColor = {
-  background: '#18171c',
-  card: '#232228',
-  accent: '#e84cb5', // Pink
-  primary: '#a259e9', // Purple
-  border: '#35343a',
+  background: '#1a1111',
+  card: '#2a1f1f',
+  accent: '#ff4444', // Bright Red
+  primary: '#cc0000', // Deep Red
+  border: '#3d2828',
   text: '#fff',
   textSecondary: '#aaa',
   buttonText: '#fff',
-  google: '#e84cb5',
+  google: '#ff4444',
 };
 
 export default AppColor;

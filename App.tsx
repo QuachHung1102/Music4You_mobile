@@ -27,8 +27,6 @@ const getTabBarIcon = (routeName: string) => {
     iconName = 'book-open-variant';
   } else if (routeName === 'Songs') {
     iconName = 'music-note';
-  } else if (routeName === 'Songs') {
-    iconName = 'music-note';
   } else if (routeName === 'Chat') {
     iconName = 'chat-processing';
   } else if (routeName === 'Community') {
